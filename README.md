@@ -9,8 +9,8 @@
 
 ## Data Cleaning
 ### Library Used
-    ##Numpy 
-    ##Pandas
+    Numpy 
+    Pandas
 * Removing the unwanted tags from App column in dataset.
 * Groupby the dataset by their mean values for each column and also sorted it.
 * Removed the Rs tag from price column in this dataset.
@@ -22,8 +22,8 @@
 ## Data Visualtion
 
 ### Library Used
-     ##Matplotlib
-     ##Seaborn
+     Matplotlib
+     Seaborn
 * Plotting the scatter Plot Review of the App with Different Cateogary.
 * Plotting the countplots for total downloads of different App.
 * Plotting the barplot for categorical App with different types of APP.
